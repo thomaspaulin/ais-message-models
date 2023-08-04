@@ -1,3 +1,3 @@
 module github.com/aisstream/ais-message-models/golang/aisStream
 
-go 1.18
+go 1.20
