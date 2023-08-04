@@ -1,3 +1,3 @@
-module github.com/thomaspaulin/ais-message-models/golang/aisStream
+module github.com/thomaspaulin/ais-message-models/tree/master/golang/aisStream
 
 go 1.20
